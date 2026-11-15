@@ -1,0 +1,63 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3A2408,100:FFB454&height=280&section=header&text=MOHAMED%20SAED&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Computer%20Engineer%20%C2%B7%20Luxury%20Cars%20Enthusiast&descAlignY=52&descSize=20&descColor=FFB454" width="100%"/>
+
+<a href="#-system-diagnostics"><img src="assets/car-hero.jpg" width="100%" alt="AI-generated luxury grand tourer in a gold-lit studio"/></a>
+
+<sub>🏁 the opening shot is <b>AI-generated</b> — the machine before the man. scroll down for the man.</sub>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=FFB454&center=true&vCenter=true&width=900&height=45&lines=Computer+Engineer;Built+with+logic%2C+tuned+with+passion;Petrolhead+%E2%80%94+V8+dreams%2C+AMG+targets;Engineer+by+day%2C+garage+by+weekend" alt="Typing SVG"/>
+
+<p>
+  <img src="https://img.shields.io/badge/📍-Egypt-0D1117?style=for-the-badge&labelColor=0D1117&color=FFB454"/>
+  <img src="https://img.shields.io/badge/🎓-Computer_Engineer-0D1117?style=for-the-badge&labelColor=0D1117&color=FFB454"/>
+  <img src="https://img.shields.io/badge/🏎️-Luxury_Cars-0D1117?style=for-the-badge&labelColor=0D1117&color=FF0057"/>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mohamed-saeed&color=ffb454&style=for-the-badge&label=PROFILE+VIEWS"/>
+</p>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FFB454&height=3&width=100%25" width="100%"/>
+
+<h2 align="center">🖥️ System Diagnostics</h2>
+
+<div align="center">
+
+<img src="assets/terminal-portrait.svg" width="940" alt="Animated neofetch terminal rendering Mohamed's portrait from 7,368 real-color dots"/>
+
+<sub>⚡ the terminal above is a <b>live SMIL animation</b>, not a screenshot — one Python pass types the command, cuts the background off the photo with an AI matting model, paints my face as <b>7,368 real-color dots</b> band by band, then prints the stats. Loops forever, inside GitHub markdown, zero JavaScript.</sub>
+
+</div>
+
+<p align="center">
+Computer engineer by training, petrolhead by necessity. I build systems that have to work — and I judge other systems by how their exhaust note sounds at 6,000 rpm.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB454,100:0D1117&height=3&width=100%25" width="100%"/>
+
+<h2 align="center">🧬 How this README was generated</h2>
+
+<div align="center">
+
+<sub><b>pipeline:</b> selfie → <b>AI background removal</b> (<code>rembg · isnet-general-use</code>) → bust crop → tone curve → halftone dot field → animated neofetch SVG. The car hero is <b>AI-generated</b> from scratch. <b>zero manual drawing</b> — every dot is computed by <a href="generative/matting.py">matting.py</a> and <a href="generative/dotty_terminal.py">dotty_terminal.py</a>.</sub>
+
+<br>
+
+[![Terminal_Engine](https://img.shields.io/badge/TERMINAL-dotty_terminal.py-0D1117?style=for-the-badge&logo=python&logoColor=FFB454)](generative/dotty_terminal.py)
+[![Matting](https://img.shields.io/badge/SEGMENTATION-rembg%20%C2%B7%20isnet-0D1117?style=for-the-badge&logo=pytorch&logoColor=FFB454)](generative/matting.py)
+[![Car_Hero](https://img.shields.io/badge/OPENING_SHOT-AI_generated-0D1117?style=for-the-badge&color=FF0057)](assets/car-hero.jpg)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FFB454&height=3&width=100%25" width="100%"/>
+
+<div align="center">
+
+<sub>🏁 <b>م. محمد سعيد</b> — مهندس حاسبات · عاشق عربيات · 🇪🇬</sub>
+
+</div>
